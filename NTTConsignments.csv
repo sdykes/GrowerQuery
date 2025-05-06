@@ -1,0 +1,50 @@
+BinDeliveryID,BinDeliveryNo,Season,RPIN,Orchard,Block,Production site,Owner,HarvestDate,NoOfBins,Storage site,Maturity,Storage type,PickNo
+7292,14051,2023,R2915,Te Wairua,A,A,Ngai Tukairangi Trust,2023-03-06,36,Te Ipu Packhouse (RO),A,Smartfreshed,1st Pick
+7386,14052,2023,R2915,Te Wairua,B,A,Ngai Tukairangi Trust,2023-03-08,47,Te Ipu Packhouse (RO),B,Smartfreshed,1st Pick
+7723,14053,2023,R2915,Te Wairua,A,A,Ngai Tukairangi Trust,2023-03-13,33,Te Ipu Packhouse (RO),A,Smartfreshed,2nd Pick
+7782,14054,2023,R2915,Te Wairua,A,A,Ngai Tukairangi Trust,2023-03-14,20,Te Ipu Packhouse (RO),A,Smartfreshed,2nd Pick
+7783,14055,2023,R2915,Te Wairua,B,A,Ngai Tukairangi Trust,2023-03-14,21,Te Ipu Packhouse (RO),B,Smartfreshed,2nd Pick
+7861,14056,2023,R2915,Te Wairua,B,A,Ngai Tukairangi Trust,2023-03-15,51,Te Ipu Packhouse (RO),B,Smartfreshed,2nd Pick
+8229,14057,2023,R2915,Te Wairua,A,A,Ngai Tukairangi Trust,2023-03-21,20,Te Ipu Packhouse (RO),B,Smartfreshed,3rd Pick
+8230,14058,2023,R2915,Te Wairua,B,A,Ngai Tukairangi Trust,2023-03-22,18,Te Ipu Packhouse (RO),B,Smartfreshed,3rd Pick
+11541,16852,2024,R1262,Tukituki,A,A,Ngai Tukairangi Trust,2024-03-07,28,Sunfruit Limited,A,Smartfreshed,1st Pick
+11542,16851,2024,R1262,Tukituki,F,F,Ngai Tukairangi Trust,2024-03-07,32,Sunfruit Limited,A,Smartfreshed,1st Pick
+11620,16854,2024,R1262,Tukituki,D,D,Ngai Tukairangi Trust,2024-03-08,26,Sunfruit Limited,A,Smartfreshed,1st Pick
+11622,16853,2024,R1262,Tukituki,D,D,Ngai Tukairangi Trust,2024-03-07,38,Te Ipu Packhouse (RO),A,Smartfreshed,1st Pick
+11640,16855,2024,R1262,Tukituki,D,D,Ngai Tukairangi Trust,2024-03-08,22,Sunfruit Limited,A,Smartfreshed,1st Pick
+11879,16856,2024,R1262,Tukituki,C,C,Ngai Tukairangi Trust,2024-03-11,60,Sunfruit Limited,A,Smartfreshed,1st Pick
+11880,16857,2024,R1262,Tukituki,C,C,Ngai Tukairangi Trust,2024-03-11,12,Sunfruit Limited,A,Smartfreshed,1st Pick
+11994,16859,2024,R2915,Te Wairua,A,A,Ngai Tukairangi Trust,2024-03-12,23,T&G East Site (TG),A,CA Smartfresh,1st Pick
+11995,16858,2024,R2915,Te Wairua,B,A,Ngai Tukairangi Trust,2024-03-12,41,T&G East Site (TG),A,CA Smartfresh,1st Pick
+12092,16861,2024,R2915,Te Wairua,B,A,Ngai Tukairangi Trust,2024-03-13,24,T&G West Site,A,CA Smartfresh,1st Pick
+12093,16860,2024,R2915,Te Wairua,A,A,Ngai Tukairangi Trust,2024-03-13,36,T&G West Site,A,CA Smartfresh,1st Pick
+12189,16863,2024,R2915,Te Wairua,B,A,Ngai Tukairangi Trust,2024-03-13,30,T&G West Site,A,CA Smartfresh,1st Pick
+12191,16862,2024,R2915,Te Wairua,A,A,Ngai Tukairangi Trust,2024-03-14,34,T&G West Site,A,CA Smartfresh,1st Pick
+12229,16864,2024,R2915,Te Wairua,A,A,Ngai Tukairangi Trust,2024-03-14,21,T&G West Site,A,CA Smartfresh,1st Pick
+12261,16866,2024,R1262,Tukituki,F,F,Ngai Tukairangi Trust,2024-03-14,31,Te Ipu Packhouse (RO),A,Smartfreshed,2nd Pick
+12264,16867,2024,R1262,Tukituki,D,D,Ngai Tukairangi Trust,2024-03-14,7,Te Ipu Packhouse (RO),A,Smartfreshed,2nd Pick
+12266,16869,2024,R1262,Tukituki,F,F,Ngai Tukairangi Trust,2024-03-14,13,Te Ipu Packhouse (RO),A,Smartfreshed,2nd Pick
+12267,16868,2024,R1262,Tukituki,D,D,Ngai Tukairangi Trust,2024-03-14,11,Te Ipu Packhouse (RO),A,Smartfreshed,2nd Pick
+12268,16865,2024,R1262,Tukituki,G,G,Ngai Tukairangi Trust,2024-03-14,22,Te Ipu Packhouse (RO),A,Smartfreshed,2nd Pick
+12336,16871,2024,R1262,Tukituki,C,C,Ngai Tukairangi Trust,2024-03-15,25,Te Ipu Packhouse (RO),A,Smartfreshed,2nd Pick
+12337,16870,2024,R1262,Tukituki,D,D,Ngai Tukairangi Trust,2024-03-15,21,Te Ipu Packhouse (RO),A,Smartfreshed,2nd Pick
+12425,16873,2024,R1262,Tukituki,D,D,Ngai Tukairangi Trust,2024-03-15,4,Te Ipu Packhouse (RO),A,Smartfreshed,2nd Pick
+12426,16874,2024,R1262,Tukituki,C,C,Ngai Tukairangi Trust,2024-03-15,4,Te Ipu Packhouse (RO),A,Smartfreshed,2nd Pick
+12428,16872,2024,R1262,Tukituki,A,A,Ngai Tukairangi Trust,2024-03-15,20,Te Ipu Packhouse (RO),A,Smartfreshed,2nd Pick
+12581,14061,2024,R1262,Tukituki,A,A,Ngai Tukairangi Trust,2024-03-16,32,Te Ipu Packhouse (RO),A,Smartfreshed,2nd Pick
+12797,16875,2024,R2915,Te Wairua,A,A,Ngai Tukairangi Trust,2024-03-19,24,T&G West Site,B,CA Smartfresh,2nd Pick
+12911,17501,2024,R2915,Te Wairua,A,A,Ngai Tukairangi Trust,2024-03-20,31,T&G West Site,B,CA Smartfresh,2nd Pick
+12912,17502,2024,R2915,Te Wairua,B,A,Ngai Tukairangi Trust,2024-03-20,29,T&G West Site,A,CA Smartfresh,2nd Pick
+13027,17504,2024,R2915,Te Wairua,B,A,Ngai Tukairangi Trust,2024-03-20,6,T&G West Site,A,CA Smartfresh,2nd Pick
+13030,17503,2024,R2915,Te Wairua,A,A,Ngai Tukairangi Trust,2024-03-20,16,T&G West Site,B,CA Smartfresh,2nd Pick
+13033,17506,2024,R2915,Te Wairua,A,A,Ngai Tukairangi Trust,2024-03-21,14,T&G West Site,B,CA Smartfresh,2nd Pick
+13035,17505,2024,R2915,Te Wairua,B,A,Ngai Tukairangi Trust,2024-03-21,24,T&G West Site,A,CA Smartfresh,2nd Pick
+13078,17508,2024,R2915,Te Wairua,B,A,Ngai Tukairangi Trust,2024-03-21,18,Te Ipu Packhouse (RO),A,CA Smartfresh,2nd Pick
+13079,17507,2024,R2915,Te Wairua,A,A,Ngai Tukairangi Trust,2024-03-21,32,Te Ipu Packhouse (RO),B,CA Smartfresh,2nd Pick
+13115,14059,2024,R1262,Tukituki,G,G,Ngai Tukairangi Trust,2024-03-06,36,Te Ipu Packhouse (RO),A,Smartfreshed,1st Pick
+13156,17509,2024,R2915,Te Wairua,B,A,Ngai Tukairangi Trust,2024-03-22,17,Te Ipu Packhouse (RO),A,CA Smartfresh,2nd Pick
+13160,17510,2024,R2915,Te Wairua,A,A,Ngai Tukairangi Trust,2024-03-22,5,Te Ipu Packhouse (RO),B,CA Smartfresh,2nd Pick
+13463,17512,2024,R2915,Te Wairua,A,A,Ngai Tukairangi Trust,2024-03-25,22,Te Ipu Packhouse (RO),B,CA Smartfresh,3rd Pick
+13464,17511,2024,R2915,Te Wairua,B,A,Ngai Tukairangi Trust,2024-03-25,12,Te Ipu Packhouse (RO),A,Smartfreshed,3rd Pick
+13562,17513,2024,R2915,Te Wairua,B,A,Ngai Tukairangi Trust,2024-03-26,7,T&G West Site,A,CA Smartfresh,3rd Pick
+13563,17514,2024,R2915,Te Wairua,A,A,Ngai Tukairangi Trust,2024-03-26,13,T&G West Site,B,CA Smartfresh,3rd Pick
